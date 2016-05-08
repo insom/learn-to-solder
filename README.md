@@ -9,6 +9,8 @@ of the gerbers that you would need to send to the board house.
 The `Boards.zip` file contains gerbers named in the way that Dirty PCBs
 require (which is where I got my first batch made).
 
+![The Finished Article](https://farm8.staticflickr.com/7519/26294564823_658470e770_z.jpg)
+
 [d]: https://insom.github.io/project/badges/
 
 
